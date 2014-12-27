@@ -1,7 +1,7 @@
-GestionRecettes
+Appli Gestion de Recettes de cuisine
 ===============
 
-Appli des Gestion de recettes de cuisine en JEE
+mini projet étudiant réalisé en JEE
 
 Features :
 - Connexion utilisateur
