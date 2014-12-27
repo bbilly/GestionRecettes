@@ -2,6 +2,7 @@
     <wb-module deploy-name="GestionRecettes">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/WebContent/WEB-INF/css"/>
         <property name="context-root" value="GestionRecettes"/>
         <property name="java-output-path" value="/GestionRecettes/build/classes"/>
     </wb-module>
